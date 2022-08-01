@@ -20,10 +20,10 @@ const Navbar = () => {
   return (
     <div className="navbar">
       <div className="navbar-links">
-        <div className="navbar-links_logo">
-          <img src={image} alt="logo" />
+        <div className="navbar-links_logo">          
           <Link to="/">
             <h1>ProChain</h1>
+            <p>Track your product on the blockchain today</p>
           </Link>
         </div>
         <div className="navbar-links_container">

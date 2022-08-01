@@ -1,7 +1,7 @@
 import { useContract } from "./useContract";
-import AbstractionAbi from "../contracts/Abstraction.json";
-import AbstractionAddress from "../contracts/Abstraction-address.json";
+import Prochain from "../contracts/Prochain.json";
+import ProchainAddress from "../contracts/Prochain-address.json";
 
-export const useNftContract = () =>{
- return useContract( AbstractionAbi.abi, AbstractionAddress.Abstraction);
-}
+export const useNftContract = () => {
+  return useContract(Prochain.abi, ProchainAddress.Prochain);
+};

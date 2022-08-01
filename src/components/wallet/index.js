@@ -1,6 +1,6 @@
 import React from "react";
 import { Dropdown, Stack, Spinner } from "react-bootstrap";
-import { formatBigNumber, truncateAddress } from "../../utils";
+import truncateAddress from "../../utils/helperFunctions"
 import Identicon from "../ui/Identicon";
 
 const Wallet = ({ address, amount, symbol, destroy }) => {

@@ -19,8 +19,6 @@ const Create = () => {
       })();
     }
   }, [address, connect]);
-  const [density, setDensity] = useState(0);
-  const [randomness, setRandomness] = useState(0);
   const nftContract = useNftContract()
 
   const [loading, setLoading] = useState(false);
@@ -67,6 +65,7 @@ const Create = () => {
   const mintThenList = async (result, defaultAccount) => {
     console.log(result.path);
     const tokenUri = `https://ipfs.infura.io/ipfs/${result.path}`;
+    console.log("tokenUri: " + tokenUri)
     const tokenPrice = ethers.utils.parseEther(itemPrice.toString());
     const tx = await nftContract.methods.mint(tokenUri, tokenPrice).send({
       from: defaultAccount,
