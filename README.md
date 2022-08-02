@@ -171,9 +171,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
-<!-- CONTRIBUTORS -->
+<!-- DEVELOPERS -->
 
-## Contributors
+## Developers
 [![](https://github.com/princeibs.png?size=50)](https://github.com/princeibs)
 [![](https://github.com/codeinn001.png?size=50)](https://github.com/codeinn001)
 
