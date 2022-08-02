@@ -11,7 +11,7 @@
 
 [//]: # (  </a>)
 
-<h3 align="center">Prochain</h3>
+<h2 align="center">Prochain</h2>
 
   <p align="center">
    An awesome NFT minter built on the Celo blockchain
