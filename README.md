@@ -95,7 +95,7 @@ Step-by-step guide to running this NFT minter locally;
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/dacadeorg/celo-nft-minter.git
+   git clone https://github.com/princeibs/prochain.git
    ```
 2. Install NPM packages
    ```sh
