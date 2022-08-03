@@ -14,7 +14,7 @@
 <h2 align="center">Prochain</h2>
 
   <p align="center">
-   An awesome NFT minter built on the Celo blockchain
+   A decentralised application solving the supply chain problem using the blockchain and NFTs
     <br />
     <br />
     <a href="https://github.com/princeibs/prochain">View Demo</a>
@@ -51,8 +51,11 @@
 
 ## About The Project
 
+Hackathon project for the BlockHeaderWeb3 community solving the supply chain problem using blockchain technology. It is a decentralized application that enables users track their purchases as minted NFTs. These NFTs metadata are saved on IPFS(InterPlanetary File System).
 
-Hackathon project for the BlockHeaderWeb3 community solving the supply chain problem using blockchain technology. It is a decentralized application that enables users track their purchases as minted NFTs. These NFTs metadata are saved on IPFS(InterPlanetary File System
+### Team members 
+- Ibrahim Suleiman ([princeibs](https://github.com/princeibs))
+- Emmanuel Alege ([codeInn001](https://github.com/codeinn001))
 
 
 
