@@ -177,8 +177,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- DEVELOPERS -->
 
 ## Developers
-[![](https://github.com/princeibs.png?size=50)](https://github.com/princeibs)
-[![](https://github.com/codeinn001.png?size=50)](https://github.com/codeinn001)
+- [princeibs](https://github.com/princeibs)
+- [codeInn001](https://github.com/codeinn001)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
